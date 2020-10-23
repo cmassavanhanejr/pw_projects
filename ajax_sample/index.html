@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajax Sample</title>
+</head>
+<body>
+    <p></p>
+    <!--Chamando a biblioteca Jquery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function (){
+                //forma basica de invocacao do ajax
+                /*$.get("info.txt", function (data) {
+                alert("I've captured: "+data);
+            })*/
+                //verificando se o ajax correu como deve ser antes de usar
+                $.ajax("info.txt").done(function (data) {
+                    //alert("I've get: "+data);
+                    $("p").html(data);
+                }).fail(function () {
+                    alert("I Could'nt get DATA: ");
+                })
+        });
+    </script>
+</body>
+</html>
