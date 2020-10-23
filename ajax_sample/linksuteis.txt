@@ -1,0 +1,5 @@
+https://www.hostinger.com.br/tutoriais/o-que-e-ajax/
+https://www.w3schools.com/php/php_ajax_php.asp
+https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
+https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
+https://www.javatpoint.com/ajax-tutorial
