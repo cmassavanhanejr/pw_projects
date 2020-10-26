@@ -1,0 +1,127 @@
+*{
+	outline: none;
+}
+
+#geral{
+	width: 100%;
+	margin: auto;
+	font-family: Gabriola;
+	font-size: x-large;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+header{
+	background-color: #e61e21;
+	width: 100%;
+	height: 13%;
+}
+
+section{
+	padding: %;
+	height: auto;
+}
+
+#conteudo{
+	text-align: center;
+	width: 100%;
+	height: auto;
+}
+
+#conteudo #info{
+	width: 50%;
+	height: auto;
+	text-align: center;
+	display: inline-block;
+
+}
+
+#form{
+	max-width: 600px;
+	background: #ffffff;
+	padding: 50px;
+	border-radius: 10px;
+	box-shadow: 0 0 20px;
+	position: relative;
+	top: 20px;
+}
+
+#form form input{
+	width: 550px;
+	height: 30px;
+	font-family: Gabriola;
+	font-size: x-large;
+}
+
+#form form button{
+	width: 400px;
+	height: 50px;
+	background-color: #e61e21;
+	cursor: pointer;
+	border-style: none;
+	font-family: Gabriola;
+	font-size: xx-large;
+}
+
+.campo{
+	margin: 10px 0;
+	background: transparent;
+	border: 0;
+	border-bottom: 1px solid #000000;
+	padding: 3px;
+	color: #000000;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	margin-right: 5%;
+
+}
+
+#btnRegistar{
+	border: 0;
+	border-radius: 10px;
+}
+
+table{
+border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+table thead tr{
+  background-color:#E62E2D;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+
+}
+
+th, td{
+	padding: 12px 15px;
+	width: 500px;
+	text-align: center;
+}
+
+table tbody tr{
+	 border-bottom: 1px solid #dddddd;
+}
+table tbody tr:nth-of-type(even) {
+  background-color: #E62E2D;
+}
+
+table tbody tr:first-of-type {
+  border-bottom: 1px solid #E62E2D;
+}
+
+footer{
+	background-color: #E62E2D;
+	width: 100%;
+	height: 13%;
+}
