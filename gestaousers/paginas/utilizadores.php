@@ -13,6 +13,12 @@
  	<div id="geral">
  		<header></header>
  		<section>
+
+		<div class="mensagem">
+			
+
+		</div>
+	
  			<div id="conteudo">
 
 				<div id="info">
