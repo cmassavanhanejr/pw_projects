@@ -3,3 +3,4 @@ https://www.w3schools.com/php/php_ajax_php.asp
 https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX
 https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
 https://www.javatpoint.com/ajax-tutorial
+https://kmdtraveller.medium.com/api-web-service-xml-json-eu-sou-um-poliglota-8d5c561980d8
